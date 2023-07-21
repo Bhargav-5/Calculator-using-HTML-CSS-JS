@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+.but1{
+    padding: 28px;
+    border-radius: 50px;
+    border: none;
+    height: 60px;
+    width: 60px;
+    background-color: black;
+    cursor: pointer;
+    color: white;
+    margin: 25px;
+    box-shadow: -6px -10px 8px;
+}
+
+/* .but2{
+    padding: 20 px;
+    border-radius: 8px;
+    border-width: 5px;
+    margin: 2px;
+    background-color: green;
+    cursor: pointer;
+} */
+
+.calciInput{
+    padding: 14px 65px ;
+    margin: 40px;
+    border-radius: 10px;
+    font-family: fantasy;
+    font-size: 25px;
+}
