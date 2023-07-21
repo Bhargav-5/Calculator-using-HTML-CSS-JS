@@ -22,5 +22,4 @@ arr.forEach(but1=>{
             input.value = string;
         }
     })
-    // Next work is to add key press event also.
     })
